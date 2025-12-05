@@ -1,7 +1,6 @@
 # Lawyer Coffee Analysis
 
-This mini-project explores how lawyers' coffee consumption changes as deadlines approach, and how it relates to the number of hours worked.  
-It demonstrates foundational skills in **Python**, **Pandas**, and **Matplotlib**, which meet the “prior programming experience” requirement for Imperial College’s Machine Learning & AI programme.
+This mini-project explores how lawyers' coffee consumption changes as deadlines approach, and how it relates to the number of hours worked. It demonstrates foundational skills in **Python**, **Pandas**, and **Matplotlib**, which meet the “prior programming experience” requirement for Imperial College’s Machine Learning & AI programme.
 
 
 ## Project Files
